@@ -4,13 +4,18 @@
 - 💼 Currently working as an Odoo Developer.
 - 🌐 Experienced in customizing and implementing end-to-end Odoo solutions for diverse business needs.
 - 🔧 Proficient in Odoo development, customization, and integration with third-party systems.
+
+- 
 ### 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mosadiqit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mosadiqit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 ###
+
+
 🛠️ **Skills:**
+
 - 🖥️ Odoo Development
 - 📦 Module Customization
 - 🔄 Data Migration
