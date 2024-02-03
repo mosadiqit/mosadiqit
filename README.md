@@ -1,7 +1,7 @@
-👋 Hello there! I'm [Your Name], a seasoned Odoo Developer and Engineer passionate about crafting robust business solutions through open-source ERP technologies.
+👋 Hello there! I'm Mohamed SADIQ , a seasoned Odoo Developer and Engineer passionate about crafting robust business solutions through open-source ERP technologies.
 
 🚀 **About Me:**
-- 💼 Currently working as an Odoo Developer, specializing in [specific modules or areas].
+- 💼 Currently working as an Odoo Developer.
 - 🌐 Experienced in customizing and implementing end-to-end Odoo solutions for diverse business needs.
 - 🔧 Proficient in Odoo development, customization, and integration with third-party systems.
 
@@ -17,25 +17,20 @@
 - 📚 Committed to staying updated with the latest Odoo releases and industry best practices.
 - 🤖 Keen interest in exploring emerging technologies that complement Odoo.
 
-🔧 **Projects:**
-- ✨ [Project 1 Name]: [Brief description and key achievements]
-- ✨ [Project 2 Name]: [Brief description and key achievements]
-- ...
-
 📫 **Contact:**
-- 📧 Email: [YourEmail@example.com]
-- 🌐 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: [mhamedsadiq365@gmail.com]
+- 🌐 LinkedIn: [Mohamed sadiq]
 - ...
 
 🤝 **Let's Connect:**
 - 📫 Feel free to reach out for collaboration, discussions, or any Odoo-related queries!
 
 🚀 **Open Source Contributions:**
-- 🌐 [Link to your GitHub repositories]
+- 🌐 [mosadiqit/E_KRC]
 - ✨ Actively contributing to the Odoo community.
 
 📈 **Stats:**
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosadiqit&show_icons=true&count_private=true)
 
 Thanks for stopping by! 👨‍💻 Let's build innovative solutions together and empower businesses with the power of Odoo!
 
