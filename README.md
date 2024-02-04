@@ -1,9 +1,13 @@
 👋 Hello there! I'm Mohamed SADIQ , a seasoned Odoo Developer and Engineer passionate about crafting robust business solutions through open-source ERP technologies.
 
 🚀 **About Me:**
-- 💼 Currently working as an Odoo Developer.
+- 💼 Currently working as an Odoo Developer, specializing in Inventory Management and Manufacturing modules..
 - 🌐 Experienced in customizing and implementing end-to-end Odoo solutions for diverse business needs.
 - 🔧 Proficient in Odoo development, customization, and integration with third-party systems.
+
+ 🔧 **Projects:**
+- ✨ **Production Planning Module:** Engineered and implemented a custom production planning module, optimizing resource utilization and reducing lead times by 20%.
+- ✨ **Integration with RFID System:** Successfully integrated Odoo with an RFID-based Warehouse Management System, enhancing real-time tracking and traceability.
 
 - 
 <div align="center">
